@@ -51,7 +51,12 @@ Git과 GitHub 공부하기
 
 
 
-Section 0x05.
+### Section 0x05. Git을 보다 깊게 이해하기
+| Section | Contents | Keywords |
+| :--: | :--: | :--: |
+| 5-1 | [Git의 원리(3가지 공간)](https://ashtonsw.tistory.com/22) | Working directory, Staging area, Repository 개념 |
+| 5-2 | [Git 파일의 삭제와 이동](https://ashtonsw.tistory.com/23) | git rm, mv, restore --staged |
+
 
 Section 0x06.
 
