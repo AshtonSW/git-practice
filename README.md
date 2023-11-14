@@ -10,9 +10,9 @@ Git과 GitHub 공부하기
 
 (개인 공부 목적이며, 명령어들이 간략히 적혀있어서 이미 알고있는 내용이라면 문제 없겠지만 git에 대한 지식이 없을 경우 내용을 이해하기는 어려울 수 있습니다.)
 
-🏃‍♀️ 크게 14개의 섹션으로 나누어서 진행했고, 추후에 다시 내용을 확인할 수 있도록 각 내용들을 블로그에 기록했습니다.
+🏃‍♀️ 추후에 다시 내용을 확인할 수 있도록 각 내용들을 블로그에 기록했습니다.
 
-# Section(0x01-0x14)
+# Section(0x01-)
 
 ### 🌱 Section 0x01. Git 시작하기
 | Section | Contents | Keywords |
@@ -56,24 +56,3 @@ Git과 GitHub 공부하기
 | :--: | :--: | :--: |
 | 5-1 | [Git의 원리(3가지 공간)](https://ashtonsw.tistory.com/22) | Working directory, Staging area, Repository 개념 |
 | 5-2 | [Git 파일의 삭제와 이동](https://ashtonsw.tistory.com/23) | git rm, mv, restore --staged |
-
-
-Section 0x06.
-
-Section 0x07.
-
-Section 0x08.
-
-Section 0x09.
-
-Section 0x10.
-
-Section 0x11.
-
-Section 0x12.
-
-Section 0x13.
-
-Section 0x14.
-
-Section 0x15.
