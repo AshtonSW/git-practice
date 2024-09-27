@@ -1,5 +1,5 @@
 # ⭐️git-practice⭐️
-Git과 GitHub 공부하기
+Git과 GitHub 공부하기 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AshtonSW/git-practice)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AshtonSW/git-practice)
